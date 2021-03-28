@@ -1,3 +1,6 @@
+# you enter a number, it checks if the number is odd or even, if odd then it'll calculate 3n + 1 where n is the current value, or will divide if even. 
+# at the end it will tell you how many steps it took to get to the number 1
+
 n = int(input("Enter a number: "))
 steps = 0
 
