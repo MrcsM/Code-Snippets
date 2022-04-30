@@ -1,4 +1,6 @@
 # Extremely simple README creator because I'm lazy and inputting the .cc and .h files and describing them is easier than actually writing everything else
+# Credit to Prof. Darryl Hill @ Carleton University, he had this coded originally for making simple .cc and .h files for COMP2404 assignments and I ended up
+# doing this with the code
 
 import sys
 
